@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Consulta CEP</string>
+    <string name="titulo">Consulta CEP</string>
+    <string name="subtitulo">Digite um CEP para ver o endereço</string>
+    <string name="cep">CEP</string>
+    <string name="exemplo_cep">00000-000</string>
+    <string name="buscar">Buscar</string>
+    <string name="erro_cep_invalido">O CEP precisa ter 8 números</string>
+    <string name="erro_cep_nao_encontrado">CEP não encontrado</string>
+    <string name="erro_sem_internet">Sem conexão. Verifique a internet e tente de novo.</string>
+    <string name="cep_geral">CEP geral da cidade</string>
+    <string name="cidade_uf">%1$s - %2$s</string>
+    <string name="cep_ddd">CEP %1$s  ·  DDD %2$s</string>
+</resources>
